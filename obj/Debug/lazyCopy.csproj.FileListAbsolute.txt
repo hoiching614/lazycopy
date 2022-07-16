@@ -1,0 +1,11 @@
+C:\Users\v\Desktop\projects\lazyCopy\bin\Debug\lazyCopy.exe.config
+C:\Users\v\Desktop\projects\lazyCopy\bin\Debug\lazyCopy.exe
+C:\Users\v\Desktop\projects\lazyCopy\bin\Debug\lazyCopy.pdb
+C:\Users\v\Desktop\projects\lazyCopy\obj\Debug\lazyCopy.csproj.AssemblyReference.cache
+C:\Users\v\Desktop\projects\lazyCopy\obj\Debug\lazyCopy.csproj.SuggestedBindingRedirects.cache
+C:\Users\v\Desktop\projects\lazyCopy\obj\Debug\lazyCopy.Properties.Resources.resources
+C:\Users\v\Desktop\projects\lazyCopy\obj\Debug\lazyCopy.csproj.GenerateResource.cache
+C:\Users\v\Desktop\projects\lazyCopy\obj\Debug\lazyCopy.csproj.CoreCompileInputs.cache
+C:\Users\v\Desktop\projects\lazyCopy\obj\Debug\lazyCopy.exe
+C:\Users\v\Desktop\projects\lazyCopy\obj\Debug\lazyCopy.pdb
+C:\Users\v\Desktop\projects\lazyCopy\obj\Debug\lazyCopy.Form1.resources
